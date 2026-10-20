@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Pulse – global events globe</title>
+  <meta name="description" content="Conflicts, news, official announcements and disasters from around the world, on a spinning globe, updated continuously.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="pulse" aria-hidden="true"></span>
+      <div>
+        <h1>World Pulse</h1>
+        <p class="sub">Conflicts, news and official announcements, live from around the world</p>
+      </div>
+    </div>
+
+    <div class="controls">
+      <div class="layers" role="group" aria-label="Layers">
+        <button type="button" class="chip" data-layer="conflict" aria-pressed="true"><i></i>Conflicts <b data-count="conflict">0</b></button>
+        <button type="button" class="chip" data-layer="news" aria-pressed="true"><i></i>News <b data-count="news">0</b></button>
+        <button type="button" class="chip" data-layer="official" aria-pressed="true"><i></i>Official announcements <b data-count="official">0</b></button>
+        <button type="button" class="chip" data-layer="disaster" aria-pressed="true"><i></i>Disasters <b data-count="disaster">0</b></button>
+      </div>
+      <div class="filters">
+        <label>Timeframe
+          <select id="hours">
+            <option value="1">last hour</option>
+            <option value="6">last 6 hours</option>
+            <option value="24" selected>last 24 hours</option>
+            <option value="72">last 3 days</option>
+          </select>
+        </label>
+        <label>Severity
+          <select id="severity">
+            <option value="0" selected>all</option>
+            <option value="1">notable+</option>
+            <option value="2">important+</option>
+            <option value="3">critical only</option>
+          </select>
+        </label>
+        <label id="conflict-type-wrap">Conflict type
+          <select id="conflict-type">
+            <option value="">all</option>
+          </select>
+        </label>
+        <label id="news-topic-wrap">News topic
+          <select id="news-topic">
+            <option value="">all</option>
+          </select>
+        </label>
+        <input id="search" type="search" placeholder="Search (e.g. Gaza, earthquake, election)…" aria-label="Search">
+      </div>
+    </div>
+  </header>
+
+  <div id="demo-banner" class="banner" hidden>
+    DEMO MODE: the data shown is <strong>synthetic</strong> (fixtures/), not real news. Start without <code>DEMO=1</code> for live sources.
+  </div>
+
+  <main class="layout">
+    <section id="globe" aria-label="Events globe">
+      <div id="globe-hint" class="globe-hint">Drag to rotate · scroll to zoom · click a country for its news</div>
+    </section>
+    <aside class="feed" aria-label="Event feed">
+      <div class="feed-head">
+        <strong id="feed-count">0 events</strong>
+        <span id="updated" class="muted">loading…</span>
+      </div>
+      <div id="country-filter" class="country-filter" hidden>
+        <span id="country-filter-label"></span>
+        <label>Source
+          <select id="country-filter-source">
+            <option value="">all</option>
+          </select>
+        </label>
+        <input id="country-filter-search" type="search" placeholder="Search in this country…" aria-label="Search in this country">
+        <button type="button" id="country-filter-clear" aria-label="Clear country selection">×</button>
+      </div>
+      <div class="feed-sort">
+        <label>Sort
+          <select id="sort">
+            <option value="newest" selected>newest first</option>
+            <option value="oldest">oldest first</option>
+            <option value="severity">most severe first</option>
+          </select>
+        </label>
+      </div>
+      <ol id="feed-list"></ol>
+      <footer class="feed-foot">
+        <a href="api/sources" target="_blank" rel="noopener">Source status</a> ·
+        <a href="api/events" target="_blank" rel="noopener">API JSON</a><br>
+        Events: <a href="https://www.gdeltproject.org/" target="_blank" rel="noopener">GDELT Project</a> ·
+        Place names: <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0)
+      </footer>
+    </aside>
+  </main>
+
+  <script src="vendor/d3/d3.v7.min.js"></script>
+  <script src="vendor/topojson-client.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

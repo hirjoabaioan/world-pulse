@@ -1,0 +1,8 @@
+node_modules/
+/data/
+sources.local.json
+*.log
+.DS_Store
+# Raw GeoNames dump used to (re)generate src/data/geonames.js — regeneratable, not worth
+# committing (~8MB). See scripts/build-geonames.js for the download URL and usage.
+/scripts/data-src/

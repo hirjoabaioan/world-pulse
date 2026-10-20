@@ -1,0 +1,167 @@
+{
+ "title": "EONET Events (DEMO)",
+ "events": [
+  {
+   "id": "EONET_DEMO_0",
+   "title": "[DEMO] Wildfire in California, United States",
+   "link": "https://example.org/eonet/0",
+   "categories": [
+    {
+     "id": "wildfires",
+     "title": "Wildfires"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/0"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-300}}",
+     "type": "Point",
+     "coordinates": [
+      -122.6,
+      38.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "EONET_DEMO_1",
+   "title": "[DEMO] Mount Etna eruption",
+   "link": "https://example.org/eonet/1",
+   "categories": [
+    {
+     "id": "volcanoes",
+     "title": "Volcanoes"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/1"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-500}}",
+     "type": "Point",
+     "coordinates": [
+      15.0,
+      37.75
+     ]
+    }
+   ]
+  },
+  {
+   "id": "EONET_DEMO_2",
+   "title": "[DEMO] Tropical Storm near Philippines",
+   "link": "https://example.org/eonet/2",
+   "categories": [
+    {
+     "id": "severe storms",
+     "title": "Severe Storms"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/2"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-240}}",
+     "type": "Point",
+     "coordinates": [
+      127.0,
+      13.5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "EONET_DEMO_3",
+   "title": "[DEMO] Iceberg A23a drifting",
+   "link": "https://example.org/eonet/3",
+   "categories": [
+    {
+     "id": "sea and lake ice",
+     "title": "Sea and Lake Ice"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/3"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-1200}}",
+     "type": "Point",
+     "coordinates": [
+      -38.0,
+      -54.0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "EONET_DEMO_4",
+   "title": "[DEMO] Wildfire in Evros, Greece",
+   "link": "https://example.org/eonet/4",
+   "categories": [
+    {
+     "id": "wildfires",
+     "title": "Wildfires"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/4"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-650}}",
+     "type": "Point",
+     "coordinates": [
+      26.1,
+      41.1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "EONET_DEMO_5",
+   "title": "[DEMO] Dust storm over Sahara",
+   "link": "https://example.org/eonet/5",
+   "categories": [
+    {
+     "id": "dust and haze",
+     "title": "Dust and Haze"
+    }
+   ],
+   "sources": [
+    {
+     "id": "DEMO",
+     "url": "https://example.org/eonet/src/5"
+    }
+   ],
+   "geometry": [
+    {
+     "date": "{{ISO:-800}}",
+     "type": "Point",
+     "coordinates": [
+      5.0,
+      22.0
+     ]
+    }
+   ]
+  }
+ ]
+}

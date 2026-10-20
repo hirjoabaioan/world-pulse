@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>WHO News (DEMO)</title>
+<link>https://example.org/</link>
+<description>Date sintetice pentru modul demo</description>
+<item>
+  <title><![CDATA[[DEMO] WHO reports cholera outbreak in Yemen]]></title>
+  <link>https://example.org/who/1</link>
+  <description><![CDATA[Cases have been confirmed in several governorates, including Hodeidah.]]></description>
+  <pubDate>{{RFC822:-160}}</pubDate>
+  <guid isPermaLink="false">https://example.org/who/1</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Mpox: WHO updates guidance for affected countries]]></title>
+  <link>https://example.org/who/2</link>
+  <description><![CDATA[New recommendations focus on vaccination of high-risk groups.]]></description>
+  <pubDate>{{RFC822:-600}}</pubDate>
+  <guid isPermaLink="false">https://example.org/who/2</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Marburg virus disease outbreak declared over in Rwanda]]></title>
+  <link>https://example.org/who/3</link>
+  <description><![CDATA[No new cases have been reported for 42 days.]]></description>
+  <pubDate>{{RFC822:-720}}</pubDate>
+  <guid isPermaLink="false">https://example.org/who/3</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Measles cases rising in Europe, WHO warns]]></title>
+  <link>https://example.org/who/4</link>
+  <description><![CDATA[Immunisation gaps are driving the increase.]]></description>
+  <pubDate>{{RFC822:-900}}</pubDate>
+  <guid isPermaLink="false">https://example.org/who/4</guid>
+</item>
+</channel>
+</rss>

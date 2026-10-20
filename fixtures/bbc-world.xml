@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>BBC News - World (DEMO)</title>
+<link>https://example.org/</link>
+<description>Date sintetice pentru modul demo</description>
+<item>
+  <title><![CDATA[[DEMO] Heavy shelling reported in Kharkiv overnight]]></title>
+  <link>https://example.org/bbc/1?utm_source=rss</link>
+  <description><![CDATA[Regional officials say several residential buildings were damaged; casualties are being assessed.]]></description>
+  <pubDate>{{RFC822:-35}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/1?utm_source=rss</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Sudan: aid convoy reaches El Fasher after weeks of fighting]]></title>
+  <link>https://example.org/bbc/2</link>
+  <description><![CDATA[Humanitarian agencies warn that supplies will last only days.]]></description>
+  <pubDate>{{RFC822:-80}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/2</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Election count under way in Chile after tight presidential race]]></title>
+  <link>https://example.org/bbc/3</link>
+  <description><![CDATA[Polls closed with record turnout across the country.]]></description>
+  <pubDate>{{RFC822:-120}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/3</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Floods displace thousands in Bangladesh]]></title>
+  <link>https://example.org/bbc/4</link>
+  <description><![CDATA[Monsoon rains have submerged villages in the north-east.]]></description>
+  <pubDate>{{RFC822:-150}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/4</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Japan and South Korea hold summit on regional security]]></title>
+  <link>https://example.org/bbc/5</link>
+  <description><![CDATA[Leaders met in Tokyo to discuss trade and defence cooperation.]]></description>
+  <pubDate>{{RFC822:-210}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/5</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Protests continue in Nairobi over cost of living]]></title>
+  <link>https://example.org/bbc/6</link>
+  <description><![CDATA[Police used tear gas to disperse crowds in the city centre.]]></description>
+  <pubDate>{{RFC822:-260}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/6</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Drone attack targets energy facility near Belgorod]]></title>
+  <link>https://example.org/bbc/7</link>
+  <description><![CDATA[Russian officials said air defences intercepted most of the drones.]]></description>
+  <pubDate>{{RFC822:-300}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/7</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Brazil central bank holds interest rates steady]]></title>
+  <link>https://example.org/bbc/8</link>
+  <description><![CDATA[Analysts expected the decision amid easing inflation.]]></description>
+  <pubDate>{{RFC822:-420}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/8</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Clashes in Goma as rebels advance on city outskirts]]></title>
+  <link>https://example.org/bbc/9</link>
+  <description><![CDATA[Residents report gunfire and people fleeing towards the border with Rwanda.]]></description>
+  <pubDate>{{RFC822:-55}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/9</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Myanmar military airstrike hits village in Rakhine, dozens killed]]></title>
+  <link>https://example.org/bbc/10</link>
+  <description><![CDATA[Local groups say at least 20 people were killed in the strike.]]></description>
+  <pubDate>{{RFC822:-95}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/10</guid>
+</item>
+</channel>
+</rss>

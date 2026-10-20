@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns:gdacs="http://www.gdacs.org">
+<channel>
+<title>GDACS (DEMO)</title>
+<link>https://example.org/</link>
+<description>Date sintetice pentru modul demo</description>
+<item>
+  <title><![CDATA[[DEMO] Orange flood alert in Bangladesh]]></title>
+  <link>https://example.org/gdacs/1</link>
+  <description><![CDATA[Flood event affecting several districts.]]></description>
+  <pubDate>{{RFC822:-180}}</pubDate>
+  <guid isPermaLink="false">https://example.org/gdacs/1</guid>
+  <gdacs:alertlevel>Orange</gdacs:alertlevel>
+  <gdacs:country>Bangladesh</gdacs:country>
+  <gdacs:eventtype>FL</gdacs:eventtype>
+  <georss:point>24.9 91.9</georss:point>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Green tropical cyclone alert in Philippines]]></title>
+  <link>https://example.org/gdacs/2</link>
+  <description><![CDATA[Tropical storm with moderate wind speeds.]]></description>
+  <pubDate>{{RFC822:-240}}</pubDate>
+  <guid isPermaLink="false">https://example.org/gdacs/2</guid>
+  <gdacs:alertlevel>Green</gdacs:alertlevel>
+  <gdacs:country>Philippines</gdacs:country>
+  <gdacs:eventtype>TC</gdacs:eventtype>
+  <georss:point>14.1 124.2</georss:point>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Red earthquake alert (Magnitude 7.1M) in Indonesia]]></title>
+  <link>https://example.org/gdacs/3</link>
+  <description><![CDATA[Earthquake in a densely populated area.]]></description>
+  <pubDate>{{RFC822:-75}}</pubDate>
+  <guid isPermaLink="false">https://example.org/gdacs/3</guid>
+  <gdacs:alertlevel>Red</gdacs:alertlevel>
+  <gdacs:country>Indonesia</gdacs:country>
+  <gdacs:eventtype>EQ</gdacs:eventtype>
+  <georss:point>-2.5 121.3</georss:point>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Green forest fire alert in Canada]]></title>
+  <link>https://example.org/gdacs/4</link>
+  <description><![CDATA[Wildfire burning in remote area.]]></description>
+  <pubDate>{{RFC822:-480}}</pubDate>
+  <guid isPermaLink="false">https://example.org/gdacs/4</guid>
+  <gdacs:alertlevel>Green</gdacs:alertlevel>
+  <gdacs:country>Canada</gdacs:country>
+  <gdacs:eventtype>WF</gdacs:eventtype>
+  <georss:point>55.2 -117.8</georss:point>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Orange drought alert in Somalia]]></title>
+  <link>https://example.org/gdacs/5</link>
+  <description><![CDATA[Prolonged drought affecting pastoral areas.]]></description>
+  <pubDate>{{RFC822:-1400}}</pubDate>
+  <guid isPermaLink="false">https://example.org/gdacs/5</guid>
+  <gdacs:alertlevel>Orange</gdacs:alertlevel>
+  <gdacs:country>Somalia</gdacs:country>
+  <gdacs:eventtype>DR</gdacs:eventtype>
+  <georss:point>4.8 45.5</georss:point>
+</item>
+</channel>
+</rss>

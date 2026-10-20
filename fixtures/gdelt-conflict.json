@@ -1,0 +1,124 @@
+{
+ "articles": [
+  {
+   "url": "https://example.org/gd/c1",
+   "url_mobile": "",
+   "title": "[DEMO] Russian missile strike on Odesa port damages grain terminal",
+   "seendate": "{{GDELT:-20}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Ukraine"
+  },
+  {
+   "url": "https://example.org/gd/c2",
+   "url_mobile": "",
+   "title": "[DEMO] Armed clashes erupt in Khartoum suburbs",
+   "seendate": "{{GDELT:-45}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Sudan"
+  },
+  {
+   "url": "https://example.org/gd/c3",
+   "url_mobile": "",
+   "title": "[DEMO] Militants ambush army convoy in Borno state",
+   "seendate": "{{GDELT:-100}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Nigeria"
+  },
+  {
+   "url": "https://example.org/gd/c4",
+   "url_mobile": "",
+   "title": "[DEMO] Al-Shabaab attack near Mogadishu leaves soldiers dead",
+   "seendate": "{{GDELT:-130}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Somalia"
+  },
+  {
+   "url": "https://example.org/gd/c5",
+   "url_mobile": "",
+   "title": "[DEMO] Drone attack reported near Zaporizhzhia nuclear plant",
+   "seendate": "{{GDELT:-60}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "United Kingdom"
+  },
+  {
+   "url": "https://example.org/gd/c6",
+   "url_mobile": "",
+   "title": "[DEMO] Insurgents attack checkpoint in Cabo Delgado",
+   "seendate": "{{GDELT:-280}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Mozambique"
+  },
+  {
+   "url": "https://example.org/gd/c7",
+   "url_mobile": "",
+   "title": "[DEMO] Ceasefire talks resume in Doha amid continued fighting",
+   "seendate": "{{GDELT:-170}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Qatar"
+  },
+  {
+   "url": "https://example.org/gd/c8",
+   "url_mobile": "",
+   "title": "[DEMO] Frappes aériennes signalées près de Ouagadougou",
+   "seendate": "{{GDELT:-220}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "French",
+   "sourcecountry": "Burkina Faso"
+  },
+  {
+   "url": "https://example.org/gd/c9",
+   "url_mobile": "",
+   "title": "[DEMO] Ataque armado en Sinaloa deja varios muertos",
+   "seendate": "{{GDELT:-190}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "Spanish",
+   "sourcecountry": "Mexico"
+  },
+  {
+   "url": "https://example.org/gd/c10",
+   "url_mobile": "",
+   "title": "[DEMO] Shelling in Pokrovsk direction intensifies, troops report",
+   "seendate": "{{GDELT:-85}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Ukraine"
+  },
+  {
+   "url": "https://example.org/gd/c11",
+   "url_mobile": "",
+   "title": "[DEMO] Clashes in Manipur leave several injured",
+   "seendate": "{{GDELT:-340}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "India"
+  },
+  {
+   "url": "https://example.org/gd/c12",
+   "url_mobile": "",
+   "title": "[DEMO] Tensions rise in Taiwan Strait as military drills begin",
+   "seendate": "{{GDELT:-260}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Taiwan"
+  }
+ ]
+}

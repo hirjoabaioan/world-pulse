@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>UN News (DEMO)</title>
+<link>https://example.org/</link>
+<description>Date sintetice pentru modul demo</description>
+<item>
+  <title><![CDATA[[DEMO] Security Council meets on the humanitarian situation in Sudan]]></title>
+  <link>https://example.org/un/1</link>
+  <description><![CDATA[Members heard briefings from OCHA and WFP on famine risk in Darfur.]]></description>
+  <pubDate>{{RFC822:-70}}</pubDate>
+  <guid isPermaLink="false">https://example.org/un/1</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] UN agencies scale up response to floods in Bangladesh]]></title>
+  <link>https://example.org/un/2</link>
+  <description><![CDATA[UNICEF and WFP are delivering water and food supplies.]]></description>
+  <pubDate>{{RFC822:-200}}</pubDate>
+  <guid isPermaLink="false">https://example.org/un/2</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Secretary-General calls for ceasefire in Gaza and release of hostages]]></title>
+  <link>https://example.org/un/3</link>
+  <description><![CDATA[Statement issued at UN Headquarters in New York.]]></description>
+  <pubDate>{{RFC822:-90}}</pubDate>
+  <guid isPermaLink="false">https://example.org/un/3</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Human Rights Council opens session in Geneva]]></title>
+  <link>https://example.org/un/4</link>
+  <description><![CDATA[The session will review reports on several countries.]]></description>
+  <pubDate>{{RFC822:-500}}</pubDate>
+  <guid isPermaLink="false">https://example.org/un/4</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] UNHCR: displacement in DR Congo reaches new high]]></title>
+  <link>https://example.org/un/5</link>
+  <description><![CDATA[More than 7 million people are now internally displaced.]]></description>
+  <pubDate>{{RFC822:-330}}</pubDate>
+  <guid isPermaLink="false">https://example.org/un/5</guid>
+</item>
+</channel>
+</rss>

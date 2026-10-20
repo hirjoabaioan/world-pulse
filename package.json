@@ -1,0 +1,18 @@
+{
+  "name": "world-pulse",
+  "version": "0.1.0",
+  "description": "Live global map of conflicts, news, official announcements and disasters, aggregated from open sources.",
+  "private": true,
+  "type": "commonjs",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "demo": "DEMO=1 node server.js",
+    "test": "node --test",
+    "check-sources": "node scripts/check-sources.js"
+  },
+  "license": "MIT"
+}

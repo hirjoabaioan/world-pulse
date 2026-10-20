@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Al Jazeera – All (DEMO)</title>
+<link>https://example.org/</link>
+<description>Date sintetice pentru modul demo</description>
+<item>
+  <title><![CDATA[[DEMO] Israeli strikes on Gaza kill at least 12, medics say]]></title>
+  <link>https://example.org/aj/1</link>
+  <description><![CDATA[Rescue teams are searching the rubble in Khan Younis and Gaza City.]]></description>
+  <pubDate>{{RFC822:-25}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/1</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Houthis claim missile attack on ship in the Red Sea]]></title>
+  <link>https://example.org/aj/2</link>
+  <description><![CDATA[The vessel reported minor damage and no injuries.]]></description>
+  <pubDate>{{RFC822:-140}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/2</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Lebanon: Israeli air strike hits village in southern Lebanon]]></title>
+  <link>https://example.org/aj/3</link>
+  <description><![CDATA[The strike came amid rising tensions along the border.]]></description>
+  <pubDate>{{RFC822:-180}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/3</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Pakistan: militants attack police post in Balochistan]]></title>
+  <link>https://example.org/aj/4</link>
+  <description><![CDATA[Officials say several security personnel were wounded.]]></description>
+  <pubDate>{{RFC822:-230}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/4</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Mali junta extends transition period]]></title>
+  <link>https://example.org/aj/5</link>
+  <description><![CDATA[The government in Bamako announced the decision on state television.]]></description>
+  <pubDate>{{RFC822:-360}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/5</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Heavy shelling reported in Kharkiv overnight]]></title>
+  <link>https://example.org/bbc/1</link>
+  <description><![CDATA[Duplicate story used to test deduplication across sources.]]></description>
+  <pubDate>{{RFC822:-40}}</pubDate>
+  <guid isPermaLink="false">https://example.org/bbc/1</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Haiti gangs expand control around Port-au-Prince]]></title>
+  <link>https://example.org/aj/7</link>
+  <description><![CDATA[Armed groups attacked two neighbourhoods, forcing residents to flee.]]></description>
+  <pubDate>{{RFC822:-310}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/7</guid>
+</item>
+<item>
+  <title><![CDATA[[DEMO] Syria: new clashes in Idlib countryside]]></title>
+  <link>https://example.org/aj/8</link>
+  <description><![CDATA[Monitors report fighting between armed groups and government forces.]]></description>
+  <pubDate>{{RFC822:-400}}</pubDate>
+  <guid isPermaLink="false">https://example.org/aj/8</guid>
+</item>
+</channel>
+</rss>

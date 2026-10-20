@@ -1,0 +1,8 @@
+geonames.js is generated (scripts/build-geonames.js) from GeoNames.org data
+(cities15000.zip — cities with population >= 15000).
+
+GeoNames is licensed under a Creative Commons Attribution 4.0 License:
+https://creativecommons.org/licenses/by/4.0/
+https://www.geonames.org/about.html
+
+Attribution: GeoNames (https://www.geonames.org/)

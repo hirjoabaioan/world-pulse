@@ -1,0 +1,176 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "title": "USGS M4.5+ (DEMO)"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "id": "demo0",
+   "properties": {
+    "mag": 7.1,
+    "place": "45 km NW of Palu, Indonesia",
+    "time": {{MS:-75}},
+    "url": "https://example.org/usgs/0",
+    "title": "[DEMO] M 7.1 - 45 km NW of Palu, Indonesia",
+    "tsunami": 1,
+    "alert": "red"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.5,
+     -0.6,
+     15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo1",
+   "properties": {
+    "mag": 5.2,
+    "place": "120 km SSE of Hachijo-jima, Japan",
+    "time": {{MS:-130}},
+    "url": "https://example.org/usgs/1",
+    "title": "[DEMO] M 5.2 - 120 km SSE of Hachijo-jima, Japan",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.2,
+     32.1,
+     40
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo2",
+   "properties": {
+    "mag": 4.8,
+    "place": "Southern Mid-Atlantic Ridge",
+    "time": {{MS:-200}},
+    "url": "https://example.org/usgs/2",
+    "title": "[DEMO] M 4.8 - Southern Mid-Atlantic Ridge",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.1,
+     -35.2,
+     10
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo3",
+   "properties": {
+    "mag": 6.3,
+    "place": "78 km W of Iquique, Chile",
+    "time": {{MS:-320}},
+    "url": "https://example.org/usgs/3",
+    "title": "[DEMO] M 6.3 - 78 km W of Iquique, Chile",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9,
+     -20.2,
+     35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo4",
+   "properties": {
+    "mag": 4.6,
+    "place": "22 km N of Vrancea, Romania",
+    "time": {{MS:-410}},
+    "url": "https://example.org/usgs/4",
+    "title": "[DEMO] M 4.6 - 22 km N of Vrancea, Romania",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.6,
+     45.9,
+     120
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo5",
+   "properties": {
+    "mag": 5.5,
+    "place": "Fiji region",
+    "time": {{MS:-500}},
+    "url": "https://example.org/usgs/5",
+    "title": "[DEMO] M 5.5 - Fiji region",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -178.4,
+     -18.1,
+     560
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo6",
+   "properties": {
+    "mag": 4.9,
+    "place": "Central Turkey",
+    "time": {{MS:-610}},
+    "url": "https://example.org/usgs/6",
+    "title": "[DEMO] M 4.9 - Central Turkey",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.9,
+     38.4,
+     8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "demo7",
+   "properties": {
+    "mag": 4.7,
+    "place": "Alaska Peninsula",
+    "time": {{MS:-700}},
+    "url": "https://example.org/usgs/7",
+    "title": "[DEMO] M 4.7 - Alaska Peninsula",
+    "tsunami": 0,
+    "alert": null
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.8,
+     56.1,
+     30
+    ]
+   }
+  }
+ ]
+}

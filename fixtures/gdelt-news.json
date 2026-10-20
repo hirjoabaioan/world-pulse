@@ -1,0 +1,104 @@
+{
+ "articles": [
+  {
+   "url": "https://example.org/gd/n1",
+   "url_mobile": "",
+   "title": "[DEMO] Parliament in Bucharest approves new budget law",
+   "seendate": "{{GDELT:-65}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Romania"
+  },
+  {
+   "url": "https://example.org/gd/n2",
+   "url_mobile": "",
+   "title": "[DEMO] Guvernul de la Chișinău anunță noi măsuri pentru sectorul energetic",
+   "seendate": "{{GDELT:-110}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "Romanian",
+   "sourcecountry": "Moldova"
+  },
+  {
+   "url": "https://example.org/gd/n3",
+   "url_mobile": "",
+   "title": "[DEMO] European Commission presents trade package in Brussels",
+   "seendate": "{{GDELT:-150}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Belgium"
+  },
+  {
+   "url": "https://example.org/gd/n4",
+   "url_mobile": "",
+   "title": "[DEMO] Argentina inflation slows for third straight month",
+   "seendate": "{{GDELT:-230}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Argentina"
+  },
+  {
+   "url": "https://example.org/gd/n5",
+   "url_mobile": "",
+   "title": "[DEMO] Canada election campaign enters final week",
+   "seendate": "{{GDELT:-300}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Canada"
+  },
+  {
+   "url": "https://example.org/gd/n6",
+   "url_mobile": "",
+   "title": "[DEMO] Australia announces new climate targets in Canberra",
+   "seendate": "{{GDELT:-380}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Australia"
+  },
+  {
+   "url": "https://example.org/gd/n7",
+   "url_mobile": "",
+   "title": "[DEMO] South Africa court rules on electricity tariffs",
+   "seendate": "{{GDELT:-450}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "South Africa"
+  },
+  {
+   "url": "https://example.org/gd/n8",
+   "url_mobile": "",
+   "title": "[DEMO] Protesters gather in Tbilisi ahead of parliament vote",
+   "seendate": "{{GDELT:-95}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "Georgia"
+  },
+  {
+   "url": "https://example.org/gd/n9",
+   "url_mobile": "",
+   "title": "[DEMO] India and Pakistan hold rare diplomatic talks",
+   "seendate": "{{GDELT:-520}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "India"
+  },
+  {
+   "url": "https://example.org/gd/n10",
+   "url_mobile": "",
+   "title": "[DEMO] Global markets rally as oil prices fall",
+   "seendate": "{{GDELT:-30}}",
+   "socialimage": "",
+   "domain": "example.org",
+   "language": "English",
+   "sourcecountry": "United States"
+  }
+ ]
+}
